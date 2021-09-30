@@ -12,8 +12,8 @@
 * 3주차 : [**아이템13 ~ 아이템14**](https://github.com/hmg0616/Effective-java-study/issues/3), 발표자 : 권동희
 * 4주차 : [**아이템15 ~ 아이템16**](https://github.com/hmg0616/Effective-java-study/issues/4), 발표자 : 정서원
 * 5주차 : [**아이템17 ~ 아이템18**](https://github.com/hmg0616/Effective-java-study/issues/5), 발표자 : 김유진
-* 6주차 : [**아이템19 ~ 아이템20**](https://github.com/hmg0616/Effective-java-study/issues/6), 발표자 : 한문규
-* 7주차 : [**아이템21 ~ 아이템22**](https://github.com/hmg0616/Effective-java-study/issues/7), 발표자 : 권동희
+* 6주차 : [**생략**](https://github.com/hmg0616/Effective-java-study/issues/6), 발표자 : 한문규
+* 7주차 : [**아이템19 ~ 아이템22**](https://github.com/hmg0616/Effective-java-study/issues/7), 발표자 : 권동희
 * 8주차 : [**아이템23 ~ 아이템24**](https://github.com/hmg0616/Effective-java-study/issues/8), 발표자 : 정서원
 * 9주차 : [**아이템25 ~ 아이템26**](https://github.com/hmg0616/Effective-java-study/issues/9), 발표자 : 김유진
 > 9주차 책거리 및 추후 스터디 진행 도서 선정 예정
