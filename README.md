@@ -16,7 +16,8 @@
 * 7주차 : [**아이템19 ~ 아이템22**](https://github.com/hmg0616/Effective-java-study/issues/7), 발표자 : 권동희
 * 8주차 : [**아이템23 ~ 아이템24**](https://github.com/hmg0616/Effective-java-study/issues/8), 발표자 : 정서원
 * 9주차 : [**아이템25**](https://github.com/hmg0616/Effective-java-study/issues/9), 발표자 : 김유진
-> 9주차 책거리 및 추후 스터디 진행 도서 선정 예정
+* 10주차 : [**아이템26**](https://github.com/hmg0616/Effective-java-study/issues/10), 발표자 : 한문규
+> 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
 ## 목차
 * 1장 들어가기
