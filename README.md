@@ -1,4 +1,4 @@
-9# Effective-java-study
+# Effective-java-study
 
 [**EFFECTIVE JAVA 3/E**](http://www.yes24.com/Product/Goods/65551284) 책을 읽고 정리하는 공간입니다.
 
