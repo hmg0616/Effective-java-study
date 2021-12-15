@@ -12,7 +12,7 @@
 * 3주차 : [**아이템13 ~ 아이템14**](https://github.com/hmg0616/Effective-java-study/issues/3), 발표자 : 권동희
 * 4주차 : [**아이템15 ~ 아이템16**](https://github.com/hmg0616/Effective-java-study/issues/4), 발표자 : 정서원
 * 5주차 : [**아이템17 ~ 아이템18**](https://github.com/hmg0616/Effective-java-study/issues/5), 발표자 : 김유진
-* 6주차 : [**생략**](https://github.com/hmg0616/Effective-java-study/issues/6), 발표자 : 한문규
+* 6주차 : [**생략**](https://github.com/hmg0616/Effective-java-study/issues/6)
 * 7주차 : [**아이템19 ~ 아이템22**](https://github.com/hmg0616/Effective-java-study/issues/7), 발표자 : 권동희
 * 8주차 : [**아이템23 ~ 아이템24**](https://github.com/hmg0616/Effective-java-study/issues/8), 발표자 : 정서원
 * 9주차 : [**아이템25**](https://github.com/hmg0616/Effective-java-study/issues/9), 발표자 : 김유진
@@ -21,6 +21,9 @@
 * 12주차 : [**아이템29 ~ 아이템30**](https://github.com/hmg0616/Effective-java-study/issues/12), 발표자 : 정서원
 * 13주차 : [**아이템31 ~ 아이템32**](https://github.com/hmg0616/Effective-java-study/issues/13), 발표자 : 김유진
 * 14주차 : [**아이템33**](https://github.com/hmg0616/Effective-java-study/issues/14), 발표자 : 한문규
+* 15주차 : [**생략**](https://github.com/hmg0616/Effective-java-study/issues/15)
+* 16주차 : [**생략**](https://github.com/hmg0616/Effective-java-study/issues/16)
+* 17주차 : [**아이템42 ~ 아이템48**](https://github.com/hmg0616/Effective-java-study/issues/17), 발표자 : 한문규
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
 ## 목차
