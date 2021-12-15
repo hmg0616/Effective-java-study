@@ -24,7 +24,15 @@
 * 15주차 : [**생략**](https://github.com/hmg0616/Effective-java-study/issues/15)
 * 16주차 : [**생략**](https://github.com/hmg0616/Effective-java-study/issues/16)
 * 17주차 : [**아이템42 ~ 아이템48**](https://github.com/hmg0616/Effective-java-study/issues/17), 발표자 : 한문규
+
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
+
+## 일정 안지킨 사람
+* 2주차(2021/09/01) : 김유진
+* 5주차(2021/09/29) : 김유진
+* 7주차(2021/10/13) : 권동희
+* 8주차(2021/10/20) : 한문규
+* 13주차(2021/11/24) : 김유진, 권동희
 
 ## 목차
 * 1장 들어가기
