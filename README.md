@@ -29,6 +29,7 @@
 * 20주차 : [**아이템57 ~ 아이템66**](https://github.com/hmg0616/Effective-java-study/issues/20), 발표자 : 권동희, 정서원
 * 21주차 : [**아이템67 ~ 아이템77**](https://github.com/hmg0616/Effective-java-study/issues/21), 발표자 : 김유진(6개), 한문규(5개)
 * 22주차 : [**아이템78 ~ 아이템84**](https://github.com/hmg0616/Effective-java-study/issues/22), 발표자 : 권동희, 정서원
+* 23주차 : [**아이템85 ~ 아이템90**](https://github.com/hmg0616/Effective-java-study/issues/23), 발표자 : 김유진, 한문규
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
